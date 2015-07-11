@@ -25,4 +25,3 @@ print numtemp1
 print numtemp2
 disc = temp[numtemp1:numtemp2]
 print disc
-lesik123
